@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/paulcbetts/electron-prebuilt-compile",
   "dependencies": {
-    "electron": "smrt/electron#v1.6.8-monochrome-bitmap-test",
+    "electron": "smrt-electron",
     "electron-compile": "*",
     "electron-compilers": "*",
     "babel-plugin-array-includes": "^2.0.3",
